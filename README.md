@@ -1,2 +1,2 @@
-# shopping-website
-Project from year3
+# mini-project
+

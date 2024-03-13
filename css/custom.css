@@ -1,0 +1,31 @@
+
+body{
+    /* รูปไม่ขึ้น */
+    background: url(../image/d2299c6e15c468822b04bceb26a066f8.png) ;  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.s-img{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    cursor: pointer;
+    transition: width 250ms ease , height 250ms ease;
+    border-radius: 5px;
+}
+/* .s-img:hover{
+    width: 220px;
+    height: 220px;
+} */
+/* .s-img:active{
+    width: 180px;
+    height: 180px;
+} */
+
+.gotomain{
+    color: white;
+    text-decoration: #000000;
+}
+
+
